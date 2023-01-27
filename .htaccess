@@ -1,1 +1,1 @@
-RewriteRule ^app-ads\.txt$ "https\:\/\/crackoncloud.com\/app-ads\.txt" [R=301,L]
+RewriteRule ^app-ads\.txt$ "https\:\/\/crackoncloud.com\/app-ads.txt" [R=301,L]
